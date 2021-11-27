@@ -1,0 +1,5 @@
+# master nodes                                                        #added automatically by k8 setup script
+10.2.2.2 k8-master-node-01.k8-cluster-test.com k8-master-node-01 #added automatically by k8 setup script
+# worker nodes                                                        #added automatically by k8 setup script
+10.2.2.3 k8-worker-node-01.k8-cluster-test.com k8-worker-node-01 #added automatically by k8 setup script
+10.2.2.4 k8-worker-node-02.k8-cluster-test.com k8-worker-node-02 #added automatically by k8 setup script
